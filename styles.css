@@ -87,5 +87,12 @@ button:hover{
 }
 
 .register-text{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+    color: #666;
+}
+
+.register-link{
     
 }

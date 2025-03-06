@@ -72,3 +72,20 @@ button{
 button:hover{
     background-color: #570b9c;
 }
+
+.forgot-password{
+    display: block;
+    text-align: right;
+    font-size: 14px;
+    color: #6a0dad;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.forgot-password:hover{
+    text-decoration: underline;
+}
+
+.register-text{
+    
+}

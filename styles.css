@@ -68,3 +68,7 @@ button{
     cursor: pointer;
     transition: background 0.3s ease-in-out;
 }
+
+button:hover{
+    background-color: #570b9c;
+}
